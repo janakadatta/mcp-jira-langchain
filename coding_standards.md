@@ -12,7 +12,7 @@
 - `PascalCase` for classes.
 - `UPPER_SNAKE_CASE` for constants.
 - Names should describe intent, not implementation (`get_active_users`, not
-  `get_users_where_flag_true`).
+  `get_users_where_flag_true`). 
 
 ## 3. Error Handling
 - Never use bare `except:` - catch specific exceptions.
